@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 池太浪的博客
+subtitle: '一只正在茁壮成长的iOS初级程序猴'
+description: '池太浪的博客'
 keywords:
-author: John Doe
-language: zh-CN
+author: maycliao
+language: zh-Hans
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://szu-neymar.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
